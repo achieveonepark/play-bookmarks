@@ -24,4 +24,4 @@ https://github.com/achieveonepark/play-bookmarks.git
 
 ## AI 스킬
 
-저장소에 Codex용 [`achieve-play-bookmarks`](.agents/skills/achieve-play-bookmarks/SKILL.md)와 Claude Code용 [동일 스킬](.claude/skills/achieve-play-bookmarks/SKILL.md)이 포함되어 있습니다. 직접 호출: Codex `$achieve-play-bookmarks`, Claude Code `/achieve-play-bookmarks`.
+스킬 원본은 [`Skills~/achieve-play-bookmarks`](Skills~/achieve-play-bookmarks/SKILL.md)에 있습니다. Unity Skill Manager가 프로젝트의 `.agents/skills`와 `.claude/skills`에 취합합니다. 직접 호출: Codex `$achieve-play-bookmarks`, Claude Code `/achieve-play-bookmarks`.
