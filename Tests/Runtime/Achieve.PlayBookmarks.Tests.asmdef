@@ -1,0 +1,5 @@
+{
+  "name": "Achieve.PlayBookmarks.Tests",
+  "references": ["Achieve.PlayBookmarks"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

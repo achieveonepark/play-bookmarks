@@ -1,0 +1,6 @@
+{
+  "name": "Achieve.PlayBookmarks.Editor",
+  "rootNamespace": "Achieve.PlayBookmarks.Editor",
+  "references": ["Achieve.PlayBookmarks"],
+  "includePlatforms": ["Editor"]
+}

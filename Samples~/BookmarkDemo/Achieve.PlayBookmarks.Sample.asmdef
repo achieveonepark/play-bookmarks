@@ -1,0 +1,5 @@
+{
+  "name": "Achieve.PlayBookmarks.Sample",
+  "rootNamespace": "Achieve.PlayBookmarks.Samples",
+  "references": ["Achieve.PlayBookmarks"]
+}

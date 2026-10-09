@@ -1,0 +1,6 @@
+interface:
+  display_name: "Achieve Play Bookmarks"
+  short_description: "Unity 플레이 북마크와 테스트 시작 조건 구현·연동"
+  default_prompt: "Use $achieve-play-bookmarks to implement or integrate Unity play bookmarks and reusable test starting conditions."
+policy:
+  allow_implicit_invocation: true

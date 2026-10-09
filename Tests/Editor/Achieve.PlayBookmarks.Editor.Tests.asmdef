@@ -1,0 +1,6 @@
+{
+  "name": "Achieve.PlayBookmarks.Editor.Tests",
+  "references": ["Achieve.PlayBookmarks", "Achieve.PlayBookmarks.Editor"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

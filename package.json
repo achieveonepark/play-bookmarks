@@ -1,0 +1,15 @@
+{
+  "name": "com.achive.play-bookmarks",
+  "version": "0.1.0",
+  "displayName": "Play Bookmarks",
+  "description": "Reusable test starting conditions, ordered setup steps, and an Editor bookmark launcher.",
+  "unity": "2022.3",
+  "keywords": ["testing", "debugging", "bookmarks", "iteration"],
+  "samples": [
+    {
+      "displayName": "Bookmark Demo",
+      "description": "A ready signal, custom game action, and a menu that creates a runnable demo scene and bookmark.",
+      "path": "Samples~/BookmarkDemo"
+    }
+  ]
+}

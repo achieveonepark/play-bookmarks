@@ -1,0 +1,11 @@
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Oo]bj/
+**/bin/
+**/.vs/
+*.csproj
+*.sln
+*.slnx
+debug.log

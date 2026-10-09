@@ -1,0 +1,5 @@
+{
+  "name": "Achieve.PlayBookmarks.Sample.Editor",
+  "references": ["Achieve.PlayBookmarks", "Achieve.PlayBookmarks.Editor", "Achieve.PlayBookmarks.Sample"],
+  "includePlatforms": ["Editor"]
+}
